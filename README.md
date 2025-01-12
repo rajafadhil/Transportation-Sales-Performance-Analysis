@@ -9,6 +9,7 @@ This project analyzes sales performance data in the transportation sector to pro
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [Tools Used](#tools-used)
+- [Link to Google Colab](#link-to-google-colab)
 
 ---
 
