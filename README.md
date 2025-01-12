@@ -67,4 +67,4 @@ The dataset contains the following key fields:
 
 ## Link to Google Colab and Slide
 - bit.ly/TransportSales
-- bit.ly/TransportationSales_slide
+- bit.ly/Transportsales_slide
