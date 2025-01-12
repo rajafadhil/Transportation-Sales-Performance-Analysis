@@ -64,8 +64,5 @@ The dataset contains the following key fields:
 
 ---
 
-## Usage
-To run this analysis:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/transportation-sales-analysis.git
+## Link to Google Colab
+bit.ly/TransportSales
